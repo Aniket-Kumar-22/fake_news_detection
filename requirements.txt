@@ -1,0 +1,10 @@
+
+
+streamlit
+scikit-learn
+
+
+# To Run 
+.\news\Scripts\Activate.ps1
+
+streamlit run app.py
