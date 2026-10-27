@@ -1,7 +1,10 @@
 
 
+
 streamlit
 scikit-learn
+nltk
+
 
 
 # To Run 
